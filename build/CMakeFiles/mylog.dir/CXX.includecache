@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/CLLogger.h
+CLStatus.h
+../include/CLStatus.h
+
+../include/CLStatus.h
+
+/home/tld/LibExceutive/src/CLLogger.cpp
+CLLogger.h
+/home/tld/LibExceutive/src/CLLogger.h
+fcntl.h
+-
+unistd.h
+-
+stdlib.h
+-
+string.h
+-
+errno.h
+-
+stdio.h
+-
+

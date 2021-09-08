@@ -1,0 +1,4 @@
+/home/tld/LibExceutive/build/CMakeFiles/rebuild_cache.dir
+/home/tld/LibExceutive/build/CMakeFiles/edit_cache.dir
+/home/tld/LibExceutive/build/CMakeFiles/testbuf.dir
+/home/tld/LibExceutive/build/CMakeFiles/mylog.dir

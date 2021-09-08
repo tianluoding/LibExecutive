@@ -1,0 +1,1 @@
+/bin/x86_64-linux-gnu-g++-9   -O0 -Wall -g2 -ggdb  -rdynamic CMakeFiles/testbuf.dir/src/testbuf.cpp.o  -o testbuf  -Wl,-rpath,/home/tld/LibExceutive/build libmylog.so 

@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/tld/LibExceutive/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/tld/LibExceutive/include   -O0 -Wall -g2 -ggdb   -o CMakeFiles/testbuf.dir/src/testbuf.cpp.o -c /home/tld/LibExceutive/src/testbuf.cpp",
+  "file": "/home/tld/LibExceutive/src/testbuf.cpp"
+},
+{
+  "directory": "/home/tld/LibExceutive/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -Dmylog_EXPORTS -I/home/tld/LibExceutive/include   -O0 -Wall -g2 -ggdb -fPIC   -o CMakeFiles/mylog.dir/src/CLStatus.cpp.o -c /home/tld/LibExceutive/src/CLStatus.cpp",
+  "file": "/home/tld/LibExceutive/src/CLStatus.cpp"
+},
+{
+  "directory": "/home/tld/LibExceutive/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -Dmylog_EXPORTS -I/home/tld/LibExceutive/include   -O0 -Wall -g2 -ggdb -fPIC   -o CMakeFiles/mylog.dir/src/CLLogger.cpp.o -c /home/tld/LibExceutive/src/CLLogger.cpp",
+  "file": "/home/tld/LibExceutive/src/CLLogger.cpp"
+}
+]

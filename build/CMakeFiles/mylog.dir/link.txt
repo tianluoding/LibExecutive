@@ -1,0 +1,1 @@
+/bin/x86_64-linux-gnu-g++-9 -fPIC  -O0 -Wall -g2 -ggdb  -shared -Wl,-soname,libmylog.so -o libmylog.so CMakeFiles/mylog.dir/src/CLStatus.cpp.o CMakeFiles/mylog.dir/src/CLLogger.cpp.o 
